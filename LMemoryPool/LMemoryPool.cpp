@@ -207,7 +207,7 @@ NS_LONG_BEGIN
         if (!pStart || nSize <= 0){
             return;
         }
-        auto pMemTrunk = m_BlockSizeHashMap[ + SIZE_RESERVED_SPACE];
+        auto pMemTrunk = m_BlockSizeHashMap[nSize + SIZE_RESERVED_SPACE];
         if (!pMemTrunk) {
             return;
         }

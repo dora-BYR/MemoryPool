@@ -34,26 +34,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e59e7782-ea73-4fc0-add5-9777f2a10fe4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/LMemoryPool.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/xcode.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool.xcodeproj/project.pbxproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool.xcodeproj/xcuserdata/longhui.xcuserdatad/xcschemes/LMemoryPool.xcscheme" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/LLinkList.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/LLinkList.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/LMemoryBlock.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/LMemoryBlock.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/LMemoryPool.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LMemoryPool/define_l.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sample/LTest.cpp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Sample/LTest.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main.cpp" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp" afterPath="$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp" />
     </list>
     <ignored path="LMemoryPool.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -121,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LMemoryPool.cpp" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LMemoryPool.cpp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="191" column="81" selection-start-line="191" selection-start-column="81" selection-end-line="191" selection-end-column="81" />
+            <state vertical-scroll-proportion="0.8168317">
+              <caret line="212" column="9" selection-start-line="212" selection-start-column="9" selection-end-line="212" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -151,11 +132,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LLinkList.h" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LLinkList.h" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LMemoryPool/LLinkList.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47524753">
-              <caret line="202" column="19" selection-start-line="202" selection-start-column="19" selection-end-line="202" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="199" column="13" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
               <folding>
                 <element signature="e#157#178#0" expanded="true" />
                 <element signature="e#259#271#0" expanded="true" />
@@ -204,10 +185,10 @@
         <option value="$PROJECT_DIR$/LMemoryPool/LObjectPool.h" />
         <option value="$PROJECT_DIR$/Sample/LTest.h" />
         <option value="$PROJECT_DIR$/LMemoryPool/LLinkList.h" />
-        <option value="$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp" />
         <option value="$PROJECT_DIR$/main.cpp" />
         <option value="$PROJECT_DIR$/Sample/LTest.cpp" />
         <option value="$PROJECT_DIR$/LMemoryPool/LMemoryPool.h" />
+        <option value="$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp" />
       </list>
     </option>
   </component>
@@ -875,14 +856,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="191" column="81" selection-start-line="191" selection-start-column="81" selection-end-line="191" selection-end-column="81" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -916,13 +889,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LMemoryPool/LLinkList.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47524753">
-          <caret line="202" column="19" selection-start-line="202" selection-start-column="19" selection-end-line="202" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="199" column="13" selection-start-line="199" selection-start-column="13" selection-end-line="199" selection-end-column="13" />
           <folding>
             <element signature="e#157#178#0" expanded="true" />
             <element signature="e#259#271#0" expanded="true" />
             <element signature="e#1379#1391#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LMemoryPool/LMemoryPool.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8168317">
+          <caret line="212" column="9" selection-start-line="212" selection-start-column="9" selection-end-line="212" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
