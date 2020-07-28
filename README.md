@@ -1,12 +1,12 @@
 # MemoryPool
-A MemoryPool implemented in C++11. Variable size and pool-auto-size supported. 85% performence promoted.
-C++11 内存池
-1、支持任意变量大小的内存分配
-2、支持池自动扩展。
-3、性能提升约85%
-
-Welcome to the MemoryPool wiki!
-# Test result
+A MemoryPool implemented in C++11. Variable size and pool-auto-size supported. 85% performence promoted.\n
+C++11 内存池\n
+1、支持任意变量大小的内存分配\n
+2、支持池自动扩展。\n
+3、性能提升约85%\n
+\n
+Welcome to the MemoryPool wiki!\n
+# Test result\n
 //////////////////////////////// 内存池功能测试 ////////////////////////////////
 sizeof(LTestObject) = 376
 sizeof(* pObject) = 376
