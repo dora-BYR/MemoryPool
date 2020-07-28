@@ -6,7 +6,7 @@ C++11 内存池
 3、性能提升约85%
 
 Welcome to the MemoryPool wiki!
-# # Test result
+# Test result
 //////////////////////////////// 内存池功能测试 ////////////////////////////////
 sizeof(LTestObject) = 376
 sizeof(* pObject) = 376
